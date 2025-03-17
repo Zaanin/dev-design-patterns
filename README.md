@@ -6,7 +6,7 @@ Este repositório contém exercícios e trabalhos relacionados a padrões de pro
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/angielleal/DesignPatters.git
+   git clone https://github.com/Zaanin/dev-design-patterns.git
    ```
 2. Explore os exemplos e desafios.
 3. Utilize os padrões para melhorar a estrutura do seu código.
